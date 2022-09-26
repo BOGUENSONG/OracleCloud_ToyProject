@@ -13,6 +13,7 @@ https://www.oracle.com/kr/cloud/free/
 ```
 https://www.wsgvet.com/cloud/5
 ``` 
+
 2. 클라우드 서버에 MySQL, React 설치
 3. hello World Page 띄우기
 4. 화면 설계
@@ -20,3 +21,11 @@ https://www.wsgvet.com/cloud/5
 6. 테스트
 7. 도메인 등록
 8. 보안
+
+-------------------------------------------------------
+# FAQ
+
+```
+1. putty를 제외한 vscode 혹은 터미널에서 ssh키를 사용하려면,
+1-2에서 키를 생성하고, save가 아닌 export로 키를 저장하면 됨. 
+```
