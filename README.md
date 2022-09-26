@@ -4,17 +4,29 @@
 
 
 순서
-### 1-1. 오라클 클라우드 등록
+### **0. 오라클 클라우드 등록**
 
 ```
 https://www.oracle.com/kr/cloud/free/
 ```
-### 1-2. 인스턴스 등록 및 SSH 접속 관리
+### **1. 인스턴스 등록 및 SSH 접속 관리**
 ```
 https://www.wsgvet.com/cloud/5
 ``` 
 
-2. 클라우드 서버에 MySQL, React 설치
+### **2. 클라우드 서버에 MySQL, React 설치**
+2-1. MySQL 설치
+```
+```
+
+2-2. React 설치
+```
+https://i5i5.tistory.com/285
+```
+2-3. 포트개방 (3000으로 진행)
+```
+https://pythonblog.co.kr/blog/30/
+```
 3. hello World Page 띄우기
 4. 화면 설계
 5. 동작 설계
