@@ -1,22 +1,17 @@
 import logo from './logo.svg';
+import sponge from './img/sponge.png'
+import spinner from './img/Spinner-3.gif'
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={sponge} className="App-logo" alt="logo" />
         <p>
-          Hello This is First Page of React Bbogle
+          H i 
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
